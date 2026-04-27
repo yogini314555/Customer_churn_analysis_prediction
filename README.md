@@ -29,7 +29,7 @@ Help businesses reduce churn & increase retention
 <h2 align="center">🔮 Churn Prediction Dashboard</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR_SECOND_IMAGE_LINK" width="1000"/>
+  <img src="https://github.com/yogini314555/Customer_churn_analysis_prediction/blob/main/prediction_churn.png" width="1000"/>
 </p>
 🔹 Churn Prediction Dashboard
 8
