@@ -18,7 +18,19 @@ Deploy a real-time churn prediction system
 Help businesses reduce churn & increase retention
 📊 Dashboard Preview
 🔹 Churn Analysis Summary
-6 ![Churn Dashboard]("C:\Users\HP\Downloads\data_analyst_project-20260424T094122Z-3-001\data_analyst_project\customer_churn\summary_churn.png")
+6  <h2 align="center">📊 Churn Analysis Dashboard</h2>
+
+<p align="center">
+  <img src=""C:\Users\HP\Downloads\data_analyst_project-20260424T094122Z-3-001\data_analyst_project\customer_churn\summary_churn.png"" width="1000"/>
+</p>
+
+---
+
+<h2 align="center">🔮 Churn Prediction Dashboard</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/YOUR_SECOND_IMAGE_LINK" width="1000"/>
+</p>
 🔹 Churn Prediction Dashboard
 8
 🗂️ Project Structure
