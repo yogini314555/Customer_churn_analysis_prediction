@@ -21,7 +21,7 @@ Help businesses reduce churn & increase retention
 6  <h2 align="center">📊 Churn Analysis Dashboard</h2>
 
 <p align="center">
-  <img src="C:\Users\HP\Downloads\data_analyst_project-20260424T094122Z-3-001\data_analyst_project\customer_churn\summary_churn.png" width="1000"/>
+  <img src="https://github.com/yogini314555/Customer_churn_analysis_prediction/blob/main/summary_churn.png" width="1000"/>
 </p>
 
 ---
